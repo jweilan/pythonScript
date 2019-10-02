@@ -71,5 +71,5 @@ def parse(pdf_path):
 
 
 if __name__ == '__main__':
-    pdf_path = r'dealData/pdf/PureMVC_IIBP_Chinese.pdf'  #pdf文件路径及文件名
+    pdf_path = r'dealData/pdf/2.pdf'  #pdf文件路径及文件名
     parse(pdf_path)
