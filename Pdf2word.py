@@ -11,7 +11,7 @@ document = Document()
  
 def parse():
     # rb以二进制读模式打开本地pdf文件
-    fn = open('dealData/pdf/PureMVC_IIBP_Chinese.pdf','rb')
+    fn = open('dealData/pdf/2.pdf','rb')
     # 创建一个pdf文档分析器
     parser = PDFParser(fn)
     # 创建一个PDF文档

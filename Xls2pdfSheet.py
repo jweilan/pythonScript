@@ -74,7 +74,7 @@ class PDFConverter:
 
 if __name__ == "__main__":
     # 支持单个文件的转换
-    pathname = 'dealData/xls/1.xls'
+    pathname = 'dealData/xls/2.xls'
     # 获取到文件的sheet数
     b = xlrd.open_workbook(pathname)
     sheetnum = len(b.sheets())
