@@ -1,10 +1,10 @@
 
-python脚本工具
+#python脚本工具
 
 安装模块：pip install 模块名
 运行脚本：py 脚本名.py
 
-1、自动换壁纸脚本 ChangeWallpaper
+1、自动换壁纸脚本 ChangeWallpaper（还没完成）
 
 2、自动下载图片脚本 DownImg
 
